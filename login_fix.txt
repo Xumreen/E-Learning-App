@@ -1,0 +1,2 @@
+Hotfix: Fixed login validation bug
+- Corrected password check and error messages
